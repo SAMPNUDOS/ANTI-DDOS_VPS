@@ -1,6 +1,6 @@
 # ANTI-DDOS_VPS
 CMD
 
-python3 iptables.py host,port,user,pass
+# python3 iptables.py host,port,user,pass
 
 KUNG KUKUNIN NYO OR NANAKAWIN NYO TOOL MAG CREDITS NAMAN KAYO MGA DEPUNGGOL!
